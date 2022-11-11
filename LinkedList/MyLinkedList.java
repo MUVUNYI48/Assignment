@@ -1,9 +1,9 @@
 /*
 Done by:
-  IKUNDABAYO Placide    221018236
-  MUGABE Nshuti Ignace 221025276
-  KANYAMAHANGA Desire  
-  MUVUNYI Patrick
+  IKUNDABAYO Placide      221018236
+  MUGABE Nshuti Ignace    221025276
+  KANYAMAHANGA Desire     221025828 
+  MUVUNYI Patrick         221009982
 */
 import java.util.Currency;
 
